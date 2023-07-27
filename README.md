@@ -6,3 +6,5 @@ Visão computacional na estimativa da distância e altura de pessoas em cenas.
 Projeto feito em conjunto com Savio Augusto Machado Araujo.
 
 Link do relatório final: https://drive.google.com/file/d/1IL3EA5nsA61q0yoMxIkRRJrlHzuCp2dd/view
+
+Link do vídeo explicativo do projeto: https://www.youtube.com/watch?v=vIdlmHtpjZU
